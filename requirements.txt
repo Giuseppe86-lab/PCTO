@@ -56,7 +56,6 @@ kiwisolver
 markdown-it-py 
 MarkupSafe 
 matplotlib
-math
 mistune 
 mkl-fft 
 mkl-random 
