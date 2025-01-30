@@ -59,7 +59,7 @@ matplotlib
 mistune 
 mkl-fft 
 mkl-random 
-mkl-service==2.4.0
+mkl-service==2.4.2
 mlxtend 
 nbclient 
 nbconvert 
