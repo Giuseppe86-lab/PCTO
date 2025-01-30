@@ -55,7 +55,8 @@ jupyterlab_server
 kiwisolver 
 markdown-it-py 
 MarkupSafe 
-matplotlib 
+matplotlib
+math
 mistune 
 mkl-fft 
 mkl-random 
@@ -77,7 +78,7 @@ parso
 patsy 
 pexpect 
 pickleshare 
-pillow 
+Pillow 
 pip==25.0
 platformdirs 
 pooch 
