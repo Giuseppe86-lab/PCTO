@@ -78,6 +78,7 @@ patsy
 pexpect 
 pickleshare 
 pillow 
+pip==25.0
 platformdirs 
 pooch 
 prometheus-client 
